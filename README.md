@@ -3,9 +3,9 @@
 <!--**anki2jain/anki2jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on MEVN stack
-- 🌱 I’m currently learning Kotlin
-- 💬 Ask me about Mobile Application & Web Development (Flutter)
+- 🔭 I’m currently working on fastify, adonis (node js frameworks), kotlin & sometimes flutter (for iOS)
+- 🌱 I’m currently learning GoLang
+- 💬 Ask me about Mobile Application & Web Development
 - 📫 How to reach me: mail me at jain2anki@gmail.com or 8650605941
 <!--- You can also find me on: -->
 
