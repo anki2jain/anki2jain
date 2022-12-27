@@ -5,7 +5,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on fastify, adonis (node js frameworks), kotlin & sometimes flutter (for iOS)
 - 🌱 I’m currently learning GoLang
-- 💬 Ask me about Mobile Application & Web Development
+- 💬 Ask me about engineering stuff
 - 📫 How to reach me: mail me at jain2anki@gmail.com or 8650605941
 <!--- You can also find me on: -->
 
