@@ -14,6 +14,3 @@ Here are some ideas to get you started:-->
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 
-
-
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anki2jain&count_private=true&show_icons=true&theme=algolia )
